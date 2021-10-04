@@ -25,7 +25,7 @@ image:
 					<a href= "https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn">The Wonderful and Terrifying Implications of Computers That Can Learn</a>, Jeremy Howard, TED	<br>
 				</td>
 				<td>
-					<a href= "practica1.pdf">Práctica 1</a>)
+					<a href= "practica1.pdf">Práctica 1</a>
 				</td>
 			</tr>
 			<tr>
