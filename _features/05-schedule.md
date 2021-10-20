@@ -29,7 +29,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 11</td>
+				<td>Oct 11-18</td>
 				<td>1.3 Agentes inteligentes<br>
 					2.1 Agentes y Búsquedas<br>
 				</td>
@@ -40,11 +40,12 @@ image:
 					[CS188-Berkeley] Planning agents (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/watch?v=PUMNeQL1hBc&list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx&index=1">video</a>)<br>
 				</td>
 				<td>
-				<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 2</a>
+					<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 2</a>
+					<a href= "https://colab.research.google.com/drive/1ezuhF5opGvINR04OJdSlEEvvRbi8Nrdp?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 18</td>
+				<td>Oct 25</td>
 				<td>2.1 Agentes y Búsquedas<br>
 					2.2 Búsqueda no informada<br>
 				</td>
@@ -58,7 +59,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Oct 25</td>
+				<td>Nov 1</td>
 				<td>
 				2.5 Búsqueda informada<br> 
 				</td>
@@ -75,7 +76,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 1</td>
+				<td>Nov 8</td>
 				<td>3.1 Qué es aprendizaje de máquina<br>
 					3.2 Aprendizaje supervisado<br>
 				</td>
@@ -90,7 +91,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 8</td>
+				<td>Nov 15</td>
 				<td>
 				3.2.1 Clasificación lineal<br>
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
@@ -106,7 +107,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 15</td>
+				<td>Nov 22</td>
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
@@ -118,7 +119,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 22</td>
+				<td>Nov 29</td>
 				<td>
 					3.2.4 Support-vector machines<br>
 					3.2.5 Random Forest
@@ -133,7 +134,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Nov 29</td>
+				<td>Dic 6</td>
 				<td>3.2.6 Redes neuronales<br>
 				</td>
 				<td>
@@ -147,7 +148,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Dic 6-13</td>
+				<td>Dic 13</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
