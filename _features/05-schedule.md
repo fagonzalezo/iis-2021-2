@@ -41,7 +41,6 @@ image:
 				</td>
 				<td>
 					<a href= "https://colab.research.google.com/drive/18ZWxA8iy7Bjz8K3uuAUPjCqYLR8akJ8A?usp=sharing">Práctica 2</a>
-					<a href= "https://colab.research.google.com/drive/1ezuhF5opGvINR04OJdSlEEvvRbi8Nrdp?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
@@ -56,6 +55,7 @@ image:
 					[CS188-Berkeley] Uninformed search (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx">video</a>)<br>
 				</td>
 				<td>
+					<a href= "https://colab.research.google.com/drive/1ezuhF5opGvINR04OJdSlEEvvRbi8Nrdp?usp=sharing">Taller 1</a>
 				</td>
 			</tr>
 			<tr>
