@@ -67,9 +67,7 @@ image:
 					<b>Clase asíncrona</b>: A* y heurísticas (<a href= "https://drive.google.com/file/d/1oTtFMYrqQECkB_XfkYpsZItmpyWqfTIL/view?t=780">video 1</a>)(<a href= "https://drive.google.com/file/d/1ATKLXE2cxSo8YXuklzXAU6aI7OLvSvGy/view?t=15">video 2</a>)<br>
 					<b>Lectura:</b> [<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 3.5-3.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter04a.pdf">slides</a>) <br>
 					<b>Recursos adicionales:</b><br>
-					[CS188-Berkeley] Uninformed search (<a href= "https://drive.google.com/file/d/1X74qlbbKkx2gwlyAyFEoe-Viu8X36DYO/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg5xVEt_bnImKNVFZ1QyHTRx">video</a>)<br>
-					[Russell10] 
-					[AI-edX] A* Search and Heuristics (<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg6Xr_sqowapHJ-WiFsExA5I">video</a>)<br>
+					[CS188-Berkeley] A* Search and Heuristics (<a href= "https://drive.google.com/file/d/1MeD3hvq0rQ_rA3KZ_3hBMnHPIK968b_Y/view">slides</a>) (<a href= "https://www.youtube.com/playlist?list=PLp8QV47qJEg6Xr_sqowapHJ-WiFsExA5I">video</a>)<br>
 					<a href= "https://github.com/aimacode/aima-python/blob/master/search4e.ipynb">Search algorithms notebook from AIMA </a><br>	
 				</td>
 				<td>
