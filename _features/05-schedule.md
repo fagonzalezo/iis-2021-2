@@ -81,8 +81,8 @@ image:
 				</td>
 				<td>
 					<b>Clase asíncrona</b>:  <br>
-					Introducción al ML (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view">video </a>)<br>
-					Clasificación binaria usando un modelo lineal (<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">notebook</a>)(<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view">video </a>)<br>
+					Introducción al ML (<a href= "https://fagonzalezo.github.io/iis-2019-1/intro-ml.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1eK8pneZVxuMekVCbH3vu5NiKwxoEtisA/view?t=113">video </a>)<br>
+					Clasificación binaria usando un modelo lineal (<a href= "https://colab.research.google.com/drive/1J4p2g0xbRUS5u6-whz9vWUABiGZvuneA?usp=sharing">notebook</a>)(<a href= "https://drive.google.com/file/d/1WUZPuXxid-iZOko-UKH1NlgBUSPgarSZ/view?usp=sharing">video </a>)<br>
 					<b>Recursos adicionales:</b><br>
 					[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 19.1, 19.2, 19.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 				</td>
