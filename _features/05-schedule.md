@@ -87,6 +87,7 @@ image:
 					[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Sect 19.1, 19.2, 19.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 				</td>
 				<td>
+					<a href= "https://colab.research.google.com/drive/1CdskHQKKO7GTZK5g-QhgYuDIwoLzbkDj?usp=sharing">Práctica 3</a>
 				</td>
 			</tr>
 			<tr>
