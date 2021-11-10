@@ -97,11 +97,13 @@ image:
 				3.2.2 Modelos probabilísticos (regresión logística, Naïve Bayes)<br>
 				</td>
 				<td>
-					[Russell10] Sect 18.6 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) 20.2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter20a.pdf">slides</a>)<br>
-					Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)<br>
+					<b>Clase asíncrona</b>:  <br>
+					Clasificador Naïve Bayes (<a href= "https://www-users.cs.umn.edu/~kumar001/dmbook/dmslides/chap5_alternative_classification.pdf">slides 49-60</a>)(<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">notebook</a>)(<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)<br>
+					<b>Recursos adicionales:</b><br>
+					[CS188-Berkeley] Naïve Bayes 1 (<a href= "https://drive.google.com/file/d/1UsK1jh8Jubhu9FUjbyWxo9_SpPVSO-xU/view?usp=sharing">slides</a>) (<a href= "https://youtube.com/playlist?list=PLp8QV47qJEg6yEhPmdSA0Eto31Nbo7d2F">video</a>)<br>
+					[CS188-Berkeley] Naïve Bayes 2 (<a href= "https://drive.google.com/file/d/1Z5dx5N0oB8rTlOjoFfS35naoJgg71FV7/view?usp=sharing">slides</a>) (<a href= "https://youtube.com/playlist?list=PLp8QV47qJEg4rxB7oob8tO_0tD4gUnQnM">video</a>)<br>
+					[<a href= "http://aima.cs.berkeley.edu/contents.html">Russell21</a>] Chapter 12<br>
 					<a href= "https://colab.research.google.com/drive/1nkxk-h0cBICX2uTCSWaIF6YXhKNMhR8u?usp=sharing">Notebook: Clasificación Lineal y Evaluación del Desempeño</a><br>
-					<b>Clase asíncrona</b>: Clasificador Naïve Bayes (<a href= "https://drive.google.com/file/d/15mXmUQMmV4du_8-NY93fdgolAM-yBbiI/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1XwL-cYgttn5N24Zf5GRrvplme834-PVC/view">video 2</a>)<br>
-					<b>Sesión práctica</b> (<a href= "https://drive.google.com/file/d/1cisr_EJCaXKQlDTtvl7hW99cKJ6nRhQq/view?usp=sharing">video</a>)<br>
 				</td>
 				<td>
 				</td>
