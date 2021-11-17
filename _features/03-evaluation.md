@@ -15,4 +15,4 @@ image:
     * Examen 10%
 * Proyecto 10%
 
-[Notas]()
+[Notas](https://docs.google.com/spreadsheets/d/13v6okd4_HXwSfICoQzb3vha-T9eYgF6zfe8420MN_no/edit?usp=sharing)
