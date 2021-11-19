@@ -114,11 +114,15 @@ image:
 				<td>3.2.3 Clasificación no lineal (k-nn, árboles de decisión)<br>
 				</td>
 				<td>
+					<b>Clase asíncrona</b>: <br>
+					Árboles de Decisión, K-nn (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>)(<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">notebook</a>)(<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view?t=50">video 1</a>)(<a href= "https://drive.google.com/file/d/1IRhxupbKaSO0ZvewBq4MobITk_rcMM1z/view?t=132">video 2</a>)<br>
+					<b>Recursos adicionales:</b><br>
 					[Russell10] Sect 18.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
-					<b>Clase asíncrona</b>: Árboles de Decisión, K-nn (<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view?t=50">video 1</a>)(<a href= "https://drive.google.com/file/d/1IRhxupbKaSO0ZvewBq4MobITk_rcMM1z/view?t=130">video 2</a>)<br>
 				</td>
 				<td>
+					<a href= "practica5.pdf">Práctica 5</a><br>
+					<a href= "https://colab.research.google.com/drive/1OmNH1IkxMbStsba-VckVslVOoCKmGRLw?usp=sharing">Taller 3</a>
 				</td>
 			</tr>
 			<tr>
