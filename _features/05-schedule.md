@@ -117,7 +117,7 @@ image:
 					<b>Clase asíncrona</b>: <br>
 					Árboles de Decisión, K-nn (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>)(<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">notebook</a>)(<a href= "https://drive.google.com/file/d/1RyjxtIVIjmvObChOfuf0lWveXMbWpxhs/view?t=50">video 1</a>)(<a href= "https://drive.google.com/file/d/1IRhxupbKaSO0ZvewBq4MobITk_rcMM1z/view?t=132">video 2</a>)<br>
 					<b>Recursos adicionales:</b><br>
-					[Russell10] Sects 19.7.5, 19.8.1-2 <br>
+					[Russell10] Sect 19.3 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1pvTLE_jx2cdnU3jCZ9T1hQk3d3jIxoh7">Notebook: Clasificación no lineal, complejidad y sobreajuste</a><br>
 				</td>
 				<td>
@@ -135,7 +135,7 @@ image:
 					<b>Clase asíncrona</b>:<br>
 					 Support-vector machines, random forest (<a href= "https://colab.research.google.com/drive/1kfy-4I9OyP7rQTdbsNs5UoM6GVi0Ig4P?usp=sharing">notebook 1</a>)(<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">notebook 2</a>)(<a href= "https://drive.google.com/file/d/1J-oOjZfh0oTWPPrwHoE5VA8irGQ41n81/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1rgXm_XtV8NHi0W3UlpSbkQOgTWdIzvgy/view?usp=sharing">video 2</a>)<br>
 					 <b>Recursos adicionales:</b><br>
-					[Russell10] Sect 18.9 y 18.10 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
+					[Russell10] Sects 19.7.5, 19.8.1-2 (<a href= "http://aima.eecs.berkeley.edu/slides-pdf/chapter18.pdf">slides</a>) <br>
 					<a href= "https://colab.research.google.com/drive/1kfy-4I9OyP7rQTdbsNs5UoM6GVi0Ig4P?usp=sharing">Notebook: Máquinas de vectores de soporte y selección de modelos</a><br>
 					<a href= "https://colab.research.google.com/drive/1MCfPiwOIG-v77YLUFW7iJmGVewiWAYbE">Notebook: Random Forests y exploración aleatorizada</a><br>
 				</td>
