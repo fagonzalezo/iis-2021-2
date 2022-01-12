@@ -169,7 +169,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Ene 11</td>
+				<td>Ene 10</td>
 				<td>3.2.7 Deep learning<br>
 				</td>
 				<td>
@@ -183,7 +183,7 @@ image:
 				</td>
 			</tr>
             <tr>
-				<td>Ene 18</td>
+				<td>Ene 17</td>
 				<td>
 				3.3 Aprendizaje no supervisado <br>
 				3.3.2 Clustering (agrupamiento)<br>
@@ -198,7 +198,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td>Ene 25</td>
+				<td>Ene 24</td>
 				<td>
 				    3.3.1 Reducción de la dimensionalidad <br>
 				</td>
