@@ -178,6 +178,8 @@ image:
 				Neural Networks in Keras (<a href= "https://colab.research.google.com/drive/1iOIVyQ19GGkY_5knuLRo0HP3BouJlpwy">Jupyter notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "Proyecto_Final_ISI_2021_2.pdf">Proyecto Final </a><br>
+				<a href= "taller-repaso-parcial.pdf">Taller Repaso Parcial</a><br>
 				</td>
 			</tr>
             <tr>
@@ -189,7 +191,7 @@ image:
 				<td>
 					<b>Clase asíncrona</b>: Agrupamiento (<a href= "https://www.youtube.com/watch?v=6I7pWdW1KSE">video</a>)
 					<br>
-					<a href= "https://fagonzalezo.github.io/iis-2018-1/KMeans.pdf">K-Means</a><br>
+					K-means(<a href= "https://fagonzalezo.github.io/iis-2018-1/KMeans.pdf">slides</a>)<br>
 					<a href= "https://colab.research.google.com/drive/1_0Ipc_RqFNwBrVAc3HY4rZfDpKLHrbgR?usp=sharing">Notebook: Agrupamiento</a><br>
 				</td>
 				<td>
@@ -204,7 +206,7 @@ image:
 					<b>Clase asíncrona</b>: Reducción de la dimensionalidad con PCA (<a href= "https://www.youtube.com/watch?v=EX1397RTcEs">video</a>)<br>
 					Intro to PCA (<a href= "https://www.scribd.com/presentation/62790749/Intro-to-PCA">slides</a>)
 					<br>
-					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">pdf</a>)<br>
+					A tutorial on principal component analysis (<a href= "https://www.cs.princeton.edu/picasso/mats/PCA-Tutorial-Intuition_jp.pdf">slides</a>)<br>
 					Reducción de la dimensionalidad con PCA (<a href= "https://colab.research.google.com/drive/1UO8TZ4oRsjHhDOaIbU3xM0Ndsf_5QQb8">notebook</a>)
 				</td>
 				<td>
